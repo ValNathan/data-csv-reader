@@ -1,0 +1,25 @@
+niveau_1;niveau_2;niveau_3;date;ventes
+PC;20 pouces ;Alpha;01/01/2021;761
+PC;20 pouces ;Omega;01/01/2021;573
+PC;20 pouces ;Gamma;01/01/2021;952
+PC;13 pouces;A;01/01/2021;514
+PC;13 pouces;B;01/01/2021;729
+PC;20 pouces ;Alpha;01/02/2021;836
+PC;20 pouces ;Omega;01/02/2021;819
+PC;20 pouces ;Gamma;01/02/2021;533
+PC;13 pouces;A;01/02/2021;939
+PC;13 pouces;B;01/02/2021;996
+PC;20 pouces ;Alpha;01/03/2021;560
+PC;20 pouces ;Omega;01/03/2021;946
+PC;20 pouces ;Gamma;01/03/2021;531
+PC;13 pouces;A;01/03/2021;651
+PC;13 pouces;B;01/03/2021;536
+PC;20 pouces ;Alpha;01/04/2021;832
+PC;20 pouces ;Omega;01/04/2021;747
+PC;20 pouces ;Gamma;01/04/2021;722
+PC;13 pouces;A;01/04/2021;542
+PC;13 pouces;B;01/04/2021;553
+MAC;13 pouces;C;01/01/2021;428
+MAC;13 pouces;C;01/02/2021;273
+MAC;13 pouces;C;01/03/2021;666
+MAC;13 pouces;C;01/04/2021;834
