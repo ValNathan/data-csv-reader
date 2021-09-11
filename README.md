@@ -18,7 +18,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 5 - It's done !
 
-Warning ! The first line of your CSV file must be `niveau_1;niveau_2;niveau_3;date;ventes` and the folliwong lines must respect this order to work properly.
+Warning ! The first line of your CSV file must be `niveau_1;niveau_2;niveau_3;date;ventes` and the following lines must respect this order to work properly.
 
 ## Available Scripts
 
