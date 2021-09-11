@@ -72,7 +72,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### How does it Works (Local test) ?
 
 1 - Open Terminal and go into the project's root `cd <path/to/the/root/project>`
+
 2 - In your terminal, run `npm install`
+
 3 - Always on your terminal, run `npm start`, a Browser tab will be open with url `localhost:3000`
+
 4 - To read a CSV file, click on the drop-zone to import your CSV file. Then, click on `Display results`button
+
 5 - It's done !
