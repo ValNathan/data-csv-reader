@@ -4,11 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How does it Works (Local test) ?
 
-1 - Open Terminal and go into the project's root `cd <path/to/the/project's/root>`
+1 - Open Terminal and run `git clone https://github.com/ValNathan/data-csv-reader.git`
 
-2 - In your terminal, run `npm install`
+2 - In your Terminal change directory by running this command `cd data-csv-reader`
 
-3 - Always on your terminal, run `npm start`, a Browser tab will open with url `localhost:3000`
+2 - Then, run `npm install`
+
+3 - Always on your terminal, run `npm start`. A Browser tab will open with url `localhost:3000`
 
 4 - To read a CSV file, click on the drop-zone to import your CSV file. Then, click on `Display results`button
 
