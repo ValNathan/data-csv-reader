@@ -277,7 +277,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Hierarchy Chart</h1>
+      <h1>Data CSV Reader</h1>
       <CSVReader
         config={{ header: true, skipEmptyLines: true }}
         onDrop={(data) => handleOnDrop(data)}
