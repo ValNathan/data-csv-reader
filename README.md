@@ -14,7 +14,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 4 - To read a CSV file, click on the drop-zone to import your CSV file. Then, click on `Display results`button
 
+4.5 - A CSV file is ready to be tested in the `files` folder.
+
 5 - It's done !
+
+Warning ! The first line of your CSV file must be `niveau_1;niveau_2;niveau_3;date;ventes` and the folliwong lines must respect this order to work properly.
 
 ## Available Scripts
 
