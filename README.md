@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How does it Works (Local test) ?
 
-1 - Open Terminal and go into the project's root `cd <path/to/the/root/project>`
+1 - Open Terminal and go into the project's root `cd <path/to/the/project's/root>`
 
 2 - In your terminal, run `npm install`
 
