@@ -8,15 +8,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 2 - In your Terminal change directory by running this command `cd data-csv-reader`
 
-2 - Then, run `npm install`
+3 - Then, run `npm install`
 
-3 - Always on your terminal, run `npm start`. A Browser tab will open with url `localhost:3000`
+4 - Always on your terminal, run `npm start`. A Browser tab will open with url `localhost:3000`
 
-4 - To read a CSV file, click on the drop-zone to import your CSV file. Then, click on `Display results`button
+5 - To read a CSV file, click on the drop-zone to import your CSV file. Then, click on `Display results`button
 
-4.5 - A CSV file is ready to be tested in the `files` folder.
+5.5 - A CSV file is ready to be tested in the `files` folder.
 
-5 - It's done !
+6 - It's done !
 
 Warning ! The first line of your CSV file must be `niveau_1;niveau_2;niveau_3;date;ventes` and the following lines must respect this order to work properly.
 
